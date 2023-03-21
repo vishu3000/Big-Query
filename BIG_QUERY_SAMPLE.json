@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lang-automation-web-vitals",
+  "private_key_id": "776ac5bc057a676200643520787456f43630fbfa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhuZ32aIW5hmsy\nnrQWADYasLYNOsq5GnEnIwBxP+7Y72rdcQ4O60055Sh0j9ccRjIoR4xMT30jUo9P\nNCgJm60dN106H6JNpDRHf/w0zVD8eqQiq6Q2aMmoQKfjN9ZJDz2mp68ztGP63eFC\nxIAH1tr0do1PhJRsuW81ZTQ6R5eEw5hWF5zkOZs9KpAX96B61gLaHxrH7difCRkJ\nh1+yofbk8N0A+ctRh/94JbC9gEuERbuGviY3MPKKb/z3gZi7Suq2WLOyr+N/y24Z\njVqTIAiYFH+ohM9SDzbzqpC9Dn3MNpbmK81V9Ld7XGdcTDt43Bq2HcGPaGzePuD7\npGA2/CsxAgMBAAECggEAEw20A8S25P4vtkonMWQ7LO2VsHAyBIXy3zbZJrYa1zz+\nbErKwP+juStaytwJcF2MhlHjyd071ut1JV5lssntRvYRbIKXFK6zqwVmqJ5cI7PG\nfxa1+dHGk+lBQrDH6crbjWHCLD8h4V8xUI19sSu1t8T6EKhETxkoBf3Q9spsQ8yG\nSxmmDvB2b7Q7yxKkOebDyQ5IicQrHg72HyvnoZhu1qCjty36KT0a/6V29kPCo/sl\ny0z6wad3Ipl5HLBR4zi620IKjgsr9d66sYifRCqGzPoCmSPaf445WYOf4K+Ydnf4\nWFaQUpdSMSg4a2iAwWA8cDB824NmC8jjLzR71f1N8QKBgQD2TMTNh41HdgBPZgpj\nFpCrxRLxUv5xxaSsSXEbFYllnufwL62RlbUlCZpBbkYpHQe/Fd5eyydu7CHe6Dfc\nkJ8CVMqCgEAjjwxDDaCGG8b9pFRADsenDAZ//vPU8RyvexX0Sq5Q23KOB1Pe7OcH\ndTJ+UW2LQ7d64WxjhPjylETulwKBgQDqnWj4Ds/9JCY0I9awgHQX+EKxsQ/BE8oJ\n/aIT3JV+QFIeP7odolAoguJ/nHmVXYivsbezfnHgcgl09X4AHxLqO5FBTBYQ99dk\nC/TwAqYYHho6pFyMoLO1rBuNIsh5cYA0RUglPaAc2BA8AQe3uNWU+CyN2aeeLEIn\n8NqspFQ1dwKBgQC+OVxmQKLk5kYnDHBJR0xE3dhbefX6eONODQrGGEQdsDUCVFCB\neFaHXHs+vaSCbGFnO8SbAdxa1xTxy/gY6bllW4dscxEWZYza3NN1wE5X52sKbl/U\nrHz4rjgz5mR5Q18ZZfRrjpFTEGW+bsmgAOwWk10/ifVTenb0Becfs1Pp0QKBgGjY\n/9gbhoeyaABVI9StEzTDFcsjPc8jcN8WIiCOK6DITeqGwD4OE5SHKYGuBAfkTPl3\niokEsQ+E5wUF0NFtEZ7sD/YGcrYSjIeBcGzyQhf1G/OpEFMoXieKSqXALadYOdsi\nOyOpbqx1QowOScypJYn1frPF2UqurMH8uTz+E0PxAoGAUoyp49jCP+wJVvGNZGNh\npif0JOHlAdnMTXJTiRWI5WrcacO2McxJaf2sS9FEt1BlqfrxK4MsjLzg7zyay8Uh\nixuRqPW1cZhVAkw0H2FIcOXsRCitmD5nZgZqO7WbnERFMMCYv9WQLQ3LhsFsTnKC\nk+TXnGui7qMiY2GAJXqgZBM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "big-query-project@lang-automation-web-vitals.iam.gserviceaccount.com",
+  "client_id": "107866134572630783738",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/big-query-project%40lang-automation-web-vitals.iam.gserviceaccount.com"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "big_query_sample_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/bigquery": "^6.1.0",
+    "@google-cloud/bigquery-connection": "^2.1.1",
+    "@google-cloud/storage": "^6.9.4"
+  }
+}
