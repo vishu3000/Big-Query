@@ -1,31 +1,28 @@
 const express = require("express");
 const {
   getSchema_1,
-  getSchema_2,
-  getSchema_3,
-  postSchema_1,
-  postSchema_2,
-  postSchema_3,
-} = require("../controllers/workoutController");
+  postSchema_1_batch,
+  Create_newTable,
+  Create_newDS,
+  Create_DS_table,
+} = require("../controllers/requestsController");
 
 const router = express.Router();
 
-// GET all workouts
-router.get("/schema_1", getSchema_1);
+// GET
+router.get("/First_Sample_1024/FirstTable", getSchema_1);
+// router.get("/get", getSchema_1);
 
-// GET a single workout
-router.get("/schema_2", getSchema_2);
+// post
+router.post("/First_Sample_1024/FirstTable/post", postSchema_1_batch);
 
-// POST a new workout
-router.get("/schema_3", getSchema_3);
+//create new table
+router.post("/First_Sample_1024/newtable", Create_newTable);
 
-// DELETE a workout
-router.post("/post/schema_1", postSchema_1);
+//create new data set
+router.post("/newDataSet", Create_newDS);
 
-// UPDATE a workout
-router.post("/post/schema_2", postSchema_2);
-
-// UPDATE a workout
-router.post("/post/schema_3", postSchema_3);
+//create new data set with a table
+router.post("/newDataSet&Table", Create_DS_table);
 
 module.exports = router;

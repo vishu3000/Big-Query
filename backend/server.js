@@ -16,7 +16,7 @@ app.use((req, res, next) => {
 });
 
 // routes
-app.use("/api/type", typeRoutes);
+app.use("/api/types", typeRoutes);
 
 // listen to port
 app.listen(process.env.PORT, () => {
